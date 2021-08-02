@@ -1,0 +1,12 @@
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\obj\Debug\net5.0\ADODOTNET_DataAccess.csproj.AssemblyReference.cache
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\obj\Debug\net5.0\ADODOTNET_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\obj\Debug\net5.0\ADODOTNET_DataAccess.AssemblyInfoInputs.cache
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\obj\Debug\net5.0\ADODOTNET_DataAccess.AssemblyInfo.cs
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\obj\Debug\net5.0\ADODOTNET_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\bin\Debug\net5.0\ADODOTNET_DataAccess.deps.json
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\bin\Debug\net5.0\ADODOTNET_DataAccess.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\bin\Debug\net5.0\ref\ADODOTNET_DataAccess.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\bin\Debug\net5.0\ADODOTNET_DataAccess.pdb
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\obj\Debug\net5.0\ADODOTNET_DataAccess.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\obj\Debug\net5.0\ref\ADODOTNET_DataAccess.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\DAL_ADODOTNET_Template\ADODOTNET_DataAccess\obj\Debug\net5.0\ADODOTNET_DataAccess.pdb
